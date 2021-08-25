@@ -1,0 +1,71 @@
+.alumnos
+{
+background-color:cadetblue;
+padding: 5px;
+width: 250px;
+border-radius: 5px;
+}
+
+.alumnos ol
+{
+    font-size: 20px;
+    color: white;
+}
+
+.alumnos h3
+{
+    color: white;
+    text-align: center;
+}
+
+.rojo
+{
+    color:red;
+}
+
+.verde
+{
+    color: green;
+}
+
+.azul
+{
+    color: blue;
+}
+
+.caja
+{
+    position: relative;
+    left: 280px;
+    top: -335px;
+    border: solid 1px rgb(0, 0, 0, 0.5);
+    width: 450px;
+    height: 315px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:cadetblue;
+    
+}
+
+.caja label
+{
+    font-size: 15px;
+}
+
+.caja input
+{
+    font-size: 10px;
+    width: 40px;
+
+}
+
+#calculadora
+{
+background-color:whitesmoke;
+width: 300px;
+position: relative;
+top: 10px;
+margin: auto;
+height: 280px;
+
+}
