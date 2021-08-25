@@ -39,7 +39,7 @@ border-radius: 5px;
     left: 280px;
     top: -335px;
     border: solid 1px rgb(0, 0, 0, 0.5);
-    width: 450px;
+    width: 430px;
     height: 315px;
     border-radius: 5px;
     padding: 10px;
@@ -61,11 +61,17 @@ border-radius: 5px;
 
 #calculadora
 {
+padding: 5px;
 background-color:whitesmoke;
 width: 300px;
 position: relative;
 top: 10px;
 margin: auto;
-height: 280px;
+height: 200px;
+}
 
+#calculadora p
+{
+    position: relative;
+    left: 120px;
 }
