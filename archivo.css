@@ -1,3 +1,4 @@
+/* Inicio CSS Alumno */
 .alumnos
 {
 background-color:cadetblue;
@@ -43,8 +44,7 @@ border-radius: 5px;
     height: 315px;
     border-radius: 5px;
     padding: 10px;
-    background-color:cadetblue;
-    
+    background-color:cadetblue;  
 }
 
 .caja label
@@ -56,9 +56,11 @@ border-radius: 5px;
 {
     font-size: 10px;
     width: 40px;
-
 }
+/* Fin CSS Alumnos */
 
+
+/* Inicio CSS Calculadora */
 #calculadora
 {
 padding: 5px;
@@ -75,3 +77,4 @@ height: 200px;
     position: relative;
     left: 120px;
 }
+/* Fin CSS Calculadora */
