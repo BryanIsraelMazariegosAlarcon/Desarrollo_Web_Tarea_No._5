@@ -1,3 +1,5 @@
+/* Inicio Notas Alumnos */
+
 const desarrollo_web = {
     alumnos: [{
         nombre: "Juan",
@@ -33,7 +35,6 @@ const programacion_2 = {
 function listar_alumnos(curso) {
     var html1 = "";
     var html2 = "";
-
 
     const div1 = document.getElementById("desarrollo_web");
     const div2 = document.getElementById("programacion_2");
