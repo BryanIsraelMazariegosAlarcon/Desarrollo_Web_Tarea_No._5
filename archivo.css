@@ -52,15 +52,16 @@ border-radius: 5px;
     font-size: 15px;
 }
 
+/* Fin CSS Alumnos */
+
+
+/* Inicio CSS Calculadora */
 .caja input
 {
     font-size: 10px;
     width: 40px;
 }
-/* Fin CSS Alumnos */
 
-
-/* Inicio CSS Calculadora */
 #calculadora
 {
 padding: 5px;
