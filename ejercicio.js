@@ -82,7 +82,6 @@ function listar_alumnos(curso) {
     }
 
 }
-
 listar_alumnos("desarrollo");
 listar_alumnos("programacion");
 
