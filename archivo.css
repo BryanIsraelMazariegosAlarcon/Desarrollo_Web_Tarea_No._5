@@ -34,6 +34,10 @@ border-radius: 5px;
     color: blue;
 }
 
+/* Fin CSS Alumnos */
+
+
+/* Inicio CSS Calculadora */
 .caja
 {
     position: relative;
@@ -52,10 +56,6 @@ border-radius: 5px;
     font-size: 15px;
 }
 
-/* Fin CSS Alumnos */
-
-
-/* Inicio CSS Calculadora */
 .caja input
 {
     font-size: 10px;
